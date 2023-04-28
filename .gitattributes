@@ -1,0 +1,8 @@
+# ignore jupyter notebooks in postprocessing in the language bar on github
+Posttest_KB_2/** linguist-vendored
+Posttest_KB_3/** linguist-vendored
+Posttest_KB_4/** linguist-vendored
+Posttest_KB_5/** linguist-vendored
+Posttest_KB_6/** linguist-vendored
+Posttest_KB_7/** linguist-vendored
+Posttest_KB_8/** linguist-vendored
